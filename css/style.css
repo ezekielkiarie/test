@@ -1,0 +1,46 @@
+body{background-color: cyan;
+    /*color: #6200ee;*/
+    /*padding: 40px;*/
+margin: 45px;
+}
+p{
+    color: black;
+}
+.one{
+    color: red;
+    font-size: 50px;
+font-family: "sans-serif";
+}
+.two{ font-weight: bold;
+    font-family: "DejaVu Serif";
+    font-size: 30px;
+   border: black 12px solid;
+    border-radius: 50px 100px;
+    padding: 41px;
+}
+.three{
+    border-radius: 51px;
+   width: 10%;
+    height: 90%;
+}
+
+a{
+    text-decoration: none;
+    color:red;
+}
+a:hover{color: dimgray;
+    font-size: 15px;
+    border-bottom: black solid;
+}
+#one {
+    color: red;
+    font-size: 20px;
+    background-color: black;
+}
+#one:hover{
+    color:  #f1f431
+;
+    font-size: 15px;
+    font-family: Inconsolata;
+
+}

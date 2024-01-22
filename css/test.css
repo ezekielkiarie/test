@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    font-size: 25px;
+    font-family: "";
+}
+table th td{
+border: 12px solid black;
+    border-collapse: collapse;
+
+}
